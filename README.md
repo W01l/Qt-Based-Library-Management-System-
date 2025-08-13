@@ -25,3 +25,39 @@ A comprehensive C++ library management application built with Qt Widgets framewo
 -Compiler: C++17 compatible compiler (GCC 8+, Clang 10+, MSVC 2019+)
 
 -Operating System: Windows, macOS, or Linux
+
+## **Academic**
+This project was developed as part of a C++ programming course focusing on:
+
+Object-oriented programming principles
+
+Template metaprogramming
+
+Qt GUI development
+
+Memory management
+
+Design patterns
+
+## **Customization**
+
+Create new class inheriting from LibraryItem
+Implement required virtual methods
+Add UI elements in LIBRARYMENU.cpp
+Update the storage demos if needed
+
+### **Modifying Storage Behavior**
+
+Edit Storage.h to add new methods
+
+Update Storage.cpp for demo implementations
+
+Modify template specializations as needed
+
+### **GUI Customization**
+
+Modify setupUI() in LIBRARYMENU.cpp
+
+Add new buttons, dialogs, or layouts
+
+Update stylesheets for different visual themes
